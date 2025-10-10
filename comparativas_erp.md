@@ -10,7 +10,7 @@
 | Criterio                        | Odoo                                             | Microsoft Dynamics                                | SAP Business One |
 | ------------------------------- | ------------------------------------------------ | ------------------------------------------------- | ---------------- |
 | Despliegue (nube/local)         | Nube y Local                                     | Nube                                              | Nube y Local     |
-| Facilidad de uso                | tiene una interfaz intuitiva y un diseño modular | Es una interfaz intuitiva y tiene vídeos de apoyo |                  |
+| Facilidad de uso                | tiene una interfaz intuitiva y un diseño modular | Es una interfaz intuitiva y tiene vídeos de apoyo | aaa                 |
 | Personalización/Integración     |                                                  |                                                   |                  |
 | Seguridad/RGPD                  |                                                  |                                                   |                  |
 | Cobertura por procesos          |                                                  |                                                   |                  |
