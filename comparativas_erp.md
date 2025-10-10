@@ -41,4 +41,4 @@ Elegiria Odoo para GreenGym ya que tiene un enfoque en Servicios  que lo hacen m
 ## 5. Fuentes 
 ![](asset/AnalisisOdoo.png)
 ![](asset/AnalisisSap.png)
-![](asset/MicrosoftAnalisis.png)
+![](asset/MicrosoftAnaliss.png)
