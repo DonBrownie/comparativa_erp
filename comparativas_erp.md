@@ -33,15 +33,24 @@ SAP Business One: Cuando se necesitan hacer operaciones complejas de inventario 
 | Ecosistema/Soporte          | Comunidad activa                                 | Soporte de microsoft                              | soporte via partners                 |
 | Coste total estimado        | Medio-Bajo                                       | Medio-Alto                                        | Alto                                 |
 | Escalabilidad               | Alta                                             | Muy alta                                          | Alta                                 |
+
 ## 4. Conclusiones
 
 El ERP utilizado seria Odoo
 
 Elegiria Odoo para GreenGym ya que tiene un enfoque en Servicios  que lo hacen mas flexible para solucionar casos de gestion no solo eso si no que el coste es muy bajo lo que lo hace aun mejor
-## 5. Fuentes 
+## 5. Fuentes
+
+### Analisis de los ERPs
 [Odoo](https://www.indaws.es/que-es-odoo)
 ![](asset/AnalisisOdoo.png)
 [Sap](https://es.linkedin.com/pulse/qu%C3%A9-es-sap-business-one-y-para-sirve-inforges-kclif)
 ![](asset/AnalisisSap.png)
 [MicroSoft](https://www.prodwaregroup.com/es-es/soluciones/microsoft-dynamics-365/)
 ![](asset/MicrosoftAnaliss.png)
+
+### Casos en los que elegir los ERPs
+He usado la inteligencia artificial Gemini para la los casos en los que elegir los ERPs
+
+### Para tabla de comparativas
+He usado la inteligencia artificial Gemini para la tabla
