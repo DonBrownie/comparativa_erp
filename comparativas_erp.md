@@ -39,6 +39,9 @@ El ERP utilizado seria Odoo
 
 Elegiria Odoo para GreenGym ya que tiene un enfoque en Servicios  que lo hacen mas flexible para solucionar casos de gestion no solo eso si no que el coste es muy bajo lo que lo hace aun mejor
 ## 5. Fuentes 
+![](https://www.indaws.es/que-es-odoo)
 ![](asset/AnalisisOdoo.png)
+![](https://es.linkedin.com/pulse/qu%C3%A9-es-sap-business-one-y-para-sirve-inforges-kclif)
 ![](asset/AnalisisSap.png)
+![](https://www.prodwaregroup.com/es-es/soluciones/microsoft-dynamics-365/)
 ![](asset/MicrosoftAnaliss.png)
