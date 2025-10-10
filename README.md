@@ -13,7 +13,7 @@ comparativas_erp/
 └─ asset/
 ```
 
-[Documento principal: [[comparativas_erp.md]]]
+[Documento principal: (comparativas_erp.md)]
 - Análisis de los ERPs elegidos 
 - Casos en los que elegirías esos ERPs 
 - Tabla Comparativa ERPs
