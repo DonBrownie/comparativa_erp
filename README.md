@@ -3,6 +3,7 @@
 ## Indice
 
 [Descripción de la Práctica]
+
 Este proyecto tiene como objetivo investigar, comparar y analizar críticamente tres soluciones de sistemas de gestión empresarial.
 
  [Estructura del repositorio]
