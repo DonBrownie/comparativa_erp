@@ -2,8 +2,8 @@
 
 ## Indice
 
- [Descripción de la Práctica]
-Breve resumen del objetivo y alcance
+[Descripción de la Práctica]
+Este proyecto tiene como objetivo investigar, comparar y analizar críticamente tres soluciones de sistemas de gestión empresarial.
 
  [Estructura del repositorio]
 ```bash
