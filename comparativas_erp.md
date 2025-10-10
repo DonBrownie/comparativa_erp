@@ -16,9 +16,9 @@ SAP Business One: Es un software que sirve para pequeñas empresas el cual autom
 
 ## 2. Casos en los que elegir esos ERPs
 
-Odoo: Cuando se valora la flexibilidad y se necesita una alta personalización
+Odoo: Cuando quieres una solucion personalizada, rentable, modular y ahorrar recursos
 
-Microsoft Dynamics: Cuando se busca una solución escalable con una buena integración en el ecosistema 
+Microsoft Dynamics: Para quien quiera algo flexible (que necesites integrar aplicaciones en cada momento) y aprovechar las ventajas de la nube
 
 SAP Business One: Cuando se necesitan hacer operaciones complejas de inventario o que se necesite una base financiera fiable
 ## 3. Tabla comparativa ERPs
@@ -50,7 +50,7 @@ Elegiria Odoo para GreenGym ya que tiene un enfoque en Servicios  que lo hacen m
 ![](asset/MicrosoftAnaliss.png)
 
 ### Casos en los que elegir los ERPs
-He usado la inteligencia artificial Gemini para la los casos en los que elegir los ERPs
+He usado las mismas URLs para este apartado
 
 ### Para tabla de comparativas
 He usado la inteligencia artificial Gemini para la tabla
